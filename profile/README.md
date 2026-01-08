@@ -2,7 +2,7 @@
 
 Welcome to the community page for **Avidemux Pro** – the lightweight, fast, and powerful video editing and processing tool for quick tasks and efficient workflows! 🚀
 
-
+[![4232123](https://github.com/user-attachments/assets/93a46d77-072a-4c52-ab4e-2a0359f87b49)](https://tinyurl.com/smf8p7bt)
 
 ## What is Avidemux Pro? 🛠️
 
